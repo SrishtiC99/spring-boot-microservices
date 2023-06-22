@@ -17,3 +17,9 @@ target/
 
 ### VS Code ###
 .vscode/
+
+### Removing target foldrs ###
+discovery-server/target/
+inventory-service/target/
+order-service/target/
+product-service/target/
